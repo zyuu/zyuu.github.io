@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2015-12-29T07:13:01.000Z</updated>
+  <updated>2016-01-05T05:54:26.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,19 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[the-sacred-interview]]></title>
+    <link href="http://yoursite.com/2016/01/05/the-sacred-interview/"/>
+    <id>http://yoursite.com/2016/01/05/the-sacred-interview/</id>
+    <published>2016-01-05T05:54:26.000Z</published>
+    <updated>2016-01-05T05:54:26.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[“产品之外的技术工具箱”]]></title>
@@ -449,7 +462,7 @@
 <h4 id="Blockquotes">Blockquotes</h4><blockquote>
 <p>Right angle brackets &gt; are used for block quotes.</p>
 </blockquote>
-<h4 id="Links_and_Email">Links and Email</h4><p>An email <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#x3a;&#x65;&#x78;&#97;&#x6d;&#112;&#x6c;&#x65;&#x40;&#101;&#120;&#x61;&#109;&#x70;&#x6c;&#x65;&#x2e;&#99;&#111;&#x6d;">&#x65;&#x78;&#97;&#x6d;&#112;&#x6c;&#x65;&#x40;&#101;&#120;&#x61;&#109;&#x70;&#x6c;&#x65;&#x2e;&#99;&#111;&#x6d;</a> link.</p>
+<h4 id="Links_and_Email">Links and Email</h4><p>An email <a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#x6f;&#58;&#101;&#120;&#97;&#109;&#x70;&#x6c;&#x65;&#x40;&#x65;&#x78;&#97;&#x6d;&#112;&#x6c;&#x65;&#x2e;&#99;&#x6f;&#x6d;">&#101;&#120;&#97;&#109;&#x70;&#x6c;&#x65;&#x40;&#x65;&#x78;&#97;&#x6d;&#112;&#x6c;&#x65;&#x2e;&#99;&#x6f;&#x6d;</a> link.</p>
 <p>Simple inline link <a href="http://chenluois.com" target="_blank" rel="external">http://chenluois.com</a>, another inline link <a href="http://25.io/smaller/" target="_blank" rel="external">Smaller</a>, one more inline link with title <a href="http://resizesafari.com" title="a Safari extension" target="_blank" rel="external">Resize</a>.</p>
 <p>A <a href="http://25.io/mou/" title="Markdown editor on Mac OS X" target="_blank" rel="external">reference style</a> link. Input id, then anywhere in the doc, define the link with corresponding id:</p>
 <p>Titles ( or called tool tips ) in the links are optional.</p>
