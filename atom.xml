@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-07T05:19:35.000Z</updated>
+  <updated>2016-01-07T05:22:24.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://yoursite.com/2016/01/05/the-sacred-interview/"/>
     <id>http://yoursite.com/2016/01/05/the-sacred-interview/</id>
     <published>2016-01-05T05:54:26.000Z</published>
-    <updated>2016-01-07T05:19:35.000Z</updated>
+    <updated>2016-01-07T05:22:24.000Z</updated>
     <content type="html"><![CDATA[<h2 id="&gt;_这份清单,既是一份有助于对这些题目做深入研究的快速指南和参考-ƒ也算是计算机科学课程中不能忘记的基础知识总结-因此并不可能全面覆盖所有内容-它也可以作为_gist_在_Github_上公开,人人都可以编辑和补充-"> &gt; 这份清单,既是一份有助于对这些题目做深入研究的快速指南和参考.ƒ也算是计算机科学课程中不能忘记的基础知识总结.因此并不可能全面覆盖所有内容.它也可以作为 gist 在 Github 上公开,人人都可以编辑和补充.</h2><h1 id="数据结构基础">数据结构基础</h1><h2 id="数组">数组</h2><h3 id="定义">定义</h3><ul>
 <li>按顺序连续存储数据元素,通常索引从0开始</li>
 <li>以集合论中的元组为基础</li>
@@ -704,7 +704,7 @@
 <h4 id="Blockquotes">Blockquotes</h4><blockquote>
 <p>Right angle brackets &gt; are used for block quotes.</p>
 </blockquote>
-<h4 id="Links_and_Email">Links and Email</h4><p>An email <a href="&#109;&#x61;&#x69;&#108;&#x74;&#111;&#x3a;&#101;&#120;&#97;&#109;&#x70;&#108;&#x65;&#64;&#x65;&#120;&#97;&#x6d;&#x70;&#108;&#101;&#46;&#x63;&#x6f;&#109;">&#101;&#120;&#97;&#109;&#x70;&#108;&#x65;&#64;&#x65;&#120;&#97;&#x6d;&#x70;&#108;&#101;&#46;&#x63;&#x6f;&#109;</a> link.</p>
+<h4 id="Links_and_Email">Links and Email</h4><p>An email <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#x65;&#x78;&#97;&#x6d;&#x70;&#108;&#x65;&#x40;&#x65;&#120;&#97;&#x6d;&#112;&#x6c;&#101;&#46;&#99;&#x6f;&#109;">&#x65;&#x78;&#97;&#x6d;&#x70;&#108;&#x65;&#x40;&#x65;&#120;&#97;&#x6d;&#112;&#x6c;&#101;&#46;&#99;&#x6f;&#109;</a> link.</p>
 <p>Simple inline link <a href="http://chenluois.com" target="_blank" rel="external">http://chenluois.com</a>, another inline link <a href="http://25.io/smaller/" target="_blank" rel="external">Smaller</a>, one more inline link with title <a href="http://resizesafari.com" title="a Safari extension" target="_blank" rel="external">Resize</a>.</p>
 <p>A <a href="http://25.io/mou/" title="Markdown editor on Mac OS X" target="_blank" rel="external">reference style</a> link. Input id, then anywhere in the doc, define the link with corresponding id:</p>
 <p>Titles ( or called tool tips ) in the links are optional.</p>
